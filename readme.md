@@ -16,7 +16,7 @@ Exercise 2
 
 ###### Bonus points explanation
 * Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
- - 'a' is returning to NaN because it is a string.
+* Answer: 'a' is returning NaN because it is a string.
 
 Submission
 ---
